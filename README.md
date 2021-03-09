@@ -34,7 +34,7 @@
 <br>
 </p>
 
-<h1> Maintenant que vous etes fan de moi, donnez moi 1M$ </h1>
+<h1> Maintenant que vous etes fan de moi, donnez moi 1M$ 💰💰💰</h1>
 
 - 🔭 Je travaille sur un super chouette site et j'ai calculé :
 
