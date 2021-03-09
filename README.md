@@ -34,20 +34,20 @@
 <br>
 </p>
 
-<h2> About Me </h2>
+<h2> Maintenant que vous etes fan de moi, donnez moi 1M$ </h2>
 
-- 🔭 Je travaille actuellement sur ce foutu cub3d
+- 🔭 Je travaille sur un super chouette site et j'ai caclulé :
 
-- 🌱 École 42 Lyon > j'apprends tout plein de choses 
+- 🌱 Si toute la terre me donne 1M de dollars, je peux mener a bien mon projet
 
-- 👯 I’m creating a huge startup and will lever 50m de fonds
+- 👯 Envoyez moi un pv et je vous balance mon rib
 
-- 💬 Loic, 19 ans et probablement déjà le meilleur développeur que vous croiserez. Je suis surtout célèbre pour mes fameuses fonctions utilisées par les forces spéciales Américaines telles que ft_putchar ou encore la très complexe ft_print_alphabet. 
-
-
+- 💬 Merci beaucoup keur keur 💞 
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
+
+
+<h2> Mes super stats de la mort <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lfourmau&count_private=true&show_icons=true&theme=dracula" />
 </a>
