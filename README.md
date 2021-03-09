@@ -45,9 +45,7 @@
 - 💬 Merci beaucoup keur keur 💞 
 
 
-
-
-<h2> Mes super stats de la mort <img src="https://giphy.com/gifs/halloween-dark-skull-l3V0yA9zHe5m29sxW" width='75px'> </h2>
+<h2> Mes super stats de la mort <iframe src="https://giphy.com/embed/l3V0yA9zHe5m29sxW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/halloween-dark-skull-l3V0yA9zHe5m29sxW">via GIPHY</a></p> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lfourmau&count_private=true&show_icons=true&theme=dracula" />
 </a>
