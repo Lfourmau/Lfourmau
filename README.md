@@ -36,7 +36,7 @@
 
 <h2> Maintenant que vous etes fan de moi, donnez moi 1M$ </h2>
 
-- 🔭 Je travaille sur un super chouette site et j'ai caclulé :
+- 🔭 Je travaille sur un super chouette site et j'ai calculé :
 
 - 🌱 Si toute la terre me donne 1M de dollars, je peux mener a bien mon projet
 
