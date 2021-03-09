@@ -45,7 +45,7 @@
 - 💬 Merci beaucoup keur keur 💞 
 
 
-<h2> Mes super stats de la mort <img width=80 src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif"/> </h2>
+<h2> Mes super stats de la mort <img width=40 src="https://media.giphy.com/media/l3V0yA9zHe5m29sxW/giphy.gif"/> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lfourmau&count_private=true&show_icons=true&theme=dracula" />
 </a>
