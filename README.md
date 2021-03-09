@@ -8,8 +8,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lfourmau.Lfourmau)
 
 </p>
-<div size='20px'> Hi! My name is Lfourmau. Thank You for taking the time to view my GitHub Profile :smile: 
-<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<div size='20px'>
+ <p align="center">Loic, 19 ans et probablement déjà le meilleur développeur que vous croiserez. Je suis surtout célèbre pour mes fameuses fonctions utilisées par les forces spéciales Américaines telles que ft_putchar ou encore la très complexe ft_print_alphabet. </p>
+<h2 align='center'> devenez fan de moi <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
 <a href = 'https://www.linkedin.com/in/Loic fourmaux'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://birdyx.fr'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
@@ -18,7 +19,7 @@
 </p>
 </div>
 
-<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
+<h2 align='center'> Les trucs où c'est que je suis un peu fort <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
 <p align = 'center'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
