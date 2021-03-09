@@ -10,7 +10,7 @@
 </p>
 <div size='20px'>
  <p align="center">Loic, 19 ans et probablement déjà le meilleur développeur que vous croiserez. Je suis surtout célèbre pour mes fameuses fonctions utilisées par les forces spéciales Américaines telles que ft_putchar ou encore la très complexe ft_print_alphabet. </p>
-<h2 align='center'> Devenez fan de moi 💝 </h2>
+<h1 align='center'> Devenez fan de moi 💝 </h1>
 <p align = 'center'>
 <a href = 'https://www.linkedin.com/in/Loic fourmaux'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://birdyx.fr'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
@@ -19,7 +19,7 @@
 </p>
 </div>
 
-<h2 align='center'> Les trucs où c'est que je suis un peu fort 🏋🏽‍♀️ </h2>
+<h1 align='center'> Les trucs où c'est que je suis un peu fort 🏋🏽‍♀️ </h1>
 <p align = 'center'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
@@ -34,7 +34,7 @@
 <br>
 </p>
 
-<h2> Maintenant que vous etes fan de moi, donnez moi 1M$ </h2>
+<h1> Maintenant que vous etes fan de moi, donnez moi 1M$ </h1>
 
 - 🔭 Je travaille sur un super chouette site et j'ai calculé :
 
