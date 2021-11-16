@@ -6,6 +6,5 @@
 </p>
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lfourmau&show_icons=true&locale=en&layout=compact" alt="" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lfourmau&show_icons=true&locale=en" alt="" height="35%" width="35%" /></p>
-
 <p align="center"><img align="center" src="https://badge42.herokuapp.com/api/stats/lfourmau"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lfourmau&show_icons=true&locale=en&layout=compact" alt="" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lfourmau&show_icons=true&locale=en" alt="" height="35%" width="35%" /></p>
