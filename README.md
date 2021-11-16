@@ -1,4 +1,4 @@
-<h1 align="center">Loïc Fourmqux</h1>
+<h1 align="center">Loïc Fourmaux 🎮/h1>
 <h3 align="center">42 Lyon student</h3>
 
 <p align='center'>
