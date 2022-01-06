@@ -18,7 +18,7 @@
 
 | [Pipex](https://github.com/Lfourmau/pipex)| CPP | 
 |---------|------------ |
-| 100/100 | In progress |
+| 100/100 | 100/100 |
   
 <img src="https://c.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif">
 </div>
