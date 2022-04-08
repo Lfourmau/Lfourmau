@@ -2,7 +2,7 @@
 <h3 align="center">42 Lyon student</h3>
 
 <p align='center'>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Lfourmau&label=Profile%20views&color=0e75b6&style=flat" alt="Lfourmau" /></p>
+<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1q4nzbi006809mc1sw8q6ut/stats?cursusId=21&coalitionId=17" alt="lfourmau's 42 stats" /></a></p>
 </p>
 </div>
 
