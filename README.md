@@ -9,6 +9,7 @@
 
 <div align='center'>
 <h3>42 common core projects</h3>
+<p>I tried to describe succintly each project in the readme, but feel free to open the subject.pdf (available in each 42 project) for more infromations.</p>
 
 |[libft](https://github.com/Lfourmau/libft) | [get_next_line](https://github.com/Lfourmau/get_next_line) | [ft_printf](https://github.com/Lfourmau/printf) | netwhat | [ft_server](https://github.com/Lfourmau/ft_server) | [cub3d](https://github.com/Lfourmau/cub3d)| [minishell](https://github.com/Lfourmau/minishell) |[push_swap](https://github.com/Lfourmau/push_swap)|[Philosophers](https://github.com/Lfourmau/Philosophers) |
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|
