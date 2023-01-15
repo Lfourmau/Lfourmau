@@ -1,12 +1,6 @@
 <h1 align="center">Loïc Fourmaux 🎮</h1>
 <h3 align="center">42 Lyon student</h3>
 
-<p align='center'>
-<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1q4nzbi006809mc1sw8q6ut/stats?cursusId=21&coalitionId=17" alt="lfourmau's 42 stats" /></a></p>
-</p>
-</div>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lfourmau&show_icons=true&locale=en&layout=compact" alt="" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lfourmau&show_icons=true&locale=en" alt="" height="35%" width="35%" /></p>
-
 <div align='center'>
 <h3>42 common core projects</h3>
 <p>I tried to describe succintly each project in the readme, but feel free to open the subject.pdf (available in each 42 project) for more infromations.</p>
