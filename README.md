@@ -4,7 +4,7 @@
 <h3>Hey there! :wave::smiley:</h3>
 
 <!--Introduction -->
-My name is Loic. I'm currently working on Mériana, an internal platform for my Birdyx side-project (repo on my profile). I'm also working on vESTAPpen and Cloud_collector, two cyber-defense python tools as part of my job. 
+My name is Loic. I'm currently working on vESTAPpen and Cloud_collector, two cyber-defense python tools as part of my job. 
 
 As for my hobbies, not much to say except that I like video games, sports, and I'm pretty sure I'll destroy you at soccer.
 
