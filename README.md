@@ -20,6 +20,7 @@ Feel free to contact me on <a href="https://www.linkedin.com/in/loic-fourmaux/">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lfourmau&" alt="lfourmau" /></p>
 
-  
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=orochimaroot&gstats=show&style=dark)
+
 <img src="https://c.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif">
 </div>
