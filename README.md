@@ -1,14 +1,12 @@
 <h1 align="center">Loïc Fourmaux 🎮</h1>
-<h3 align="center">42 Lyon student and Cyber security engineer at Sopra Steria Toulouse</h3>
+<h3 align="center">42 Lyon student</h3>
 <!-- Greeting -->
 <h3>Hey there! :wave::smiley:</h3>
 
 <!--Introduction -->
-My name is Loic. I'm currently working on vESTAPpen and Cloud_collector, two cyber-defense python tools as part of my job. 
+My name is Loic. I'm currently working on Kywo and Kywo eSport, two mobile apps (with react native and Expo). 
 
-As for my hobbies, not much to say except that I like video games, sports, and I'm pretty sure I'll destroy you at soccer.
-
-Feel free to contact me on <a href="https://www.linkedin.com/in/loic-fourmaux/">linkedin</a>. (To work, not to play soccer).
+Feel free to contact me on <a href="https://www.linkedin.com/in/loic-fourmaux/">linkedin</a>.
 <br>
 <div align='center'>
 <h3 align="left">Languages and Tools:</h3>
